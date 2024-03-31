@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw">
+<img align="right" alt="coding" width="400" src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" >
 - 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Python,Java,DSA**
