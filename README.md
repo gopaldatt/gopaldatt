@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
+<img align="right" alt="coding" width="400" src="https://storyset.com/illustration/online-games-addiction/amico#utm_source=freepik&utm_medium=referall&utm_campaign=storiesdetail&utm_content=edit-button&utm_term=edit"> 
 - 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Python,Java,DSA**
