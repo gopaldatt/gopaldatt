@@ -28,6 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopaldatt&show_icons=true&locale=en&layout=compact" alt="gopaldatt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopaldatt&show_icons=true&locale=en" alt="gopaldatt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopaldatt&" alt="gopaldatt" /></p>
